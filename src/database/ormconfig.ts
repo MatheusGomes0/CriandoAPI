@@ -1,6 +1,7 @@
 import { DataSource } from "typeorm"
 
 import dotenv from "dotenv"
+import { join } from "path"
 
 dotenv.config()
 
